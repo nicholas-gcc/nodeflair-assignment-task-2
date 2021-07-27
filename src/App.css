@@ -1,0 +1,22 @@
+.img {
+    width: 150px;
+    min-height: 150px;
+    max-height: auto;
+    margin: 10px;
+    padding: 3px;
+}
+
+.image-container {
+  margin: auto;
+  width: 50%;
+}
+
+.buttons {
+  margin: auto;
+  width: 20%;
+}
+
+.buttons h2 {
+  text-align: center;
+}
+
